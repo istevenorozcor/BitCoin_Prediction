@@ -1,1 +1,8 @@
-Con base en diferentes modelos de Deep Learning se predice el precio del BitCoin para evaluar en un modelo de ivnersión simulado.
+# 📊 DL for BitCoin Prediction 
+This Jupyter Notebook explores real-world data to predict the behavior of the Cripto. 
+## 📑 Table of Contents
+- MLP
+- RNN
+- LSTM
+- GRU
+- Business scenarios
